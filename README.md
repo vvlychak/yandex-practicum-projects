@@ -1,2 +1,1 @@
-# yandex-practicum-projects
-My educational projects from Yandex Practicum's Data Science specialist program
+# Учебные проекты по программе "Специалист по Data Science" от Яндекс.Практикум
