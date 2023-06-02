@@ -1,15 +1,16 @@
 # Проекты по программе "Специалист по Data Science" от Яндекс.Практикум
-| Название проекта|Описание| Используемые библиотеки |
-|:-----------------|:--------------- |:----------------------:|
-|Яндекс Музыка|Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга.|`pandas`|
-|Исследование надежности заемщиков|Определение влияния различных параметров клиентов на факт погашения кредита в срок. |`pandas`|
-|Исследование объявлений о продаже квартир|Выявление зависимости рыночной стоимости объектов недвижимости от различных параметров объявлений сервиса Яндекс.Недвижимость.|`pandas`, `matplotlib`, `warnings`|
-|Исследование выручки тарифов|Определение наиболее выгодного для продвижения тарифа оператора сотовой связи. |`pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`|
-|Исследование продаж компьютерных игр|Выявление определяющих успешность игры закономерностей.|`pandas`, `matplotlib`, `seaborn`, `scipy`, `warnings`|
-|Рекомендация тарифов|Построение модели для задачи классификации, которая выберет подходящий для пользователя тариф.|`pandas`, `sklearn`, `matplotlib`, `seaborn`|
-|Отток клиентов|Построение модели для задачи классификации для предсказания оттока клиентов банка.|`pandas`, `matplotlib`, `sklearn`, `ydata_profiling`|
-|Выбор локации для скважины|Построение модели для задачи регрессии для выбора наиболее прибыльной локации разработки скважин.|`pandas`, `numpy`, `matplotlib`, `seaborn`, `sklearn`|
-|Восстановление золота из руды|Построение модели для задачи регрессии для предсказания коэффициента восстановления золота из руды.|`pandas`, `matplotlib`, `seaborn`, `sklearn`, `warnings`|
-|Защита персональных данных клиентов|Разработка метода преобразования персональных данных клиентов для их защиты таким образом, чтобы при преобразовании качество моделей машинного обучения не ухудшилось.|`pandas`, `numpy`, `ydata_profiling`, `sklearn`|
-|Определение стоимости автомобилей|Построение модели для задачи регрессии для предсказания рыночной цены автомобилей по их характеристикам.|`pandas`, `numpy`, `ydata_profiling`, `matplotlib`, `sklearn`, `lightgbm`|
-|Прогнозирование заказов такси|Построение модели для задачи регрессии для предсказания количества заказов такси на следующий час.|`pandas`, `matplotlib`, `sklearn`, `catboost`, `statsmodels`|
+|№| Название проекта|Описание|Стек|
+|:---:|:-----------------|:--------------- |:----------------------:|
+|1.|[Яндекс Музыка](https://github.com/vvlychak/yandex-practicum-projects/tree/main/01_yandex_music)|Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга.|`pandas`|
+|2.|[Исследование надежности заемщиков](https://github.com/vvlychak/yandex-practicum-projects/tree/main/02_bank_customer_research)|Определение влияния различных параметров клиентов на факт погашения кредита в срок. |`pandas`|
+|3.|[Исследование объявлений о продаже квартир](https://github.com/vvlychak/yandex-practicum-projects/tree/main/03_yandex_real_estate)|Выявление зависимости рыночной стоимости объектов недвижимости от различных параметров объявлений сервиса Яндекс.Недвижимость.|`pandas`, `matplotlib`, `warnings`|
+|4.|[Исследование выручки тарифов](https://github.com/vvlychak/yandex-practicum-projects/tree/main/04_tariffs_revenue_research)|Определение наиболее выгодного для продвижения тарифа оператора сотовой связи. |`pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`|
+|5.|[Исследование продаж компьютерных игр](https://github.com/vvlychak/yandex-practicum-projects/tree/main/05_games_research)|Выявление определяющих успешность игры закономерностей.|`pandas`, `matplotlib`, `seaborn`, `scipy`, `warnings`|
+|6.|[Рекомендация тарифов](https://github.com/vvlychak/yandex-practicum-projects/tree/main/06_tariffs_recommendation)|Построение модели для задачи классификации, которая выберет подходящий для пользователя тариф.|`pandas`, `sklearn`, `matplotlib`, `seaborn`|
+|7.|[Отток клиентов](https://github.com/vvlychak/yandex-practicum-projects/tree/main/07_customer_churn)|Построение модели для задачи классификации для предсказания оттока клиентов банка.|`pandas`, `matplotlib`, `sklearn`, `ydata_profiling`|
+|8.|[Выбор локации для скважины](https://github.com/vvlychak/yandex-practicum-projects/tree/main/08_well_location_selection)|Построение модели для задачи регрессии для выбора наиболее прибыльной локации разработки скважин.|`pandas`, `numpy`, `matplotlib`, `seaborn`, `sklearn`|
+|9.|[Восстановление золота из руды](https://github.com/vvlychak/yandex-practicum-projects/tree/main/09_gold_mining)|Построение модели для задачи регрессии для предсказания коэффициента восстановления золота из руды.|`pandas`, `matplotlib`, `seaborn`, `sklearn`, `warnings`|
+|10.|[Защита персональных данных клиентов](https://github.com/vvlychak/yandex-practicum-projects/tree/main/10_data_protection)|Разработка метода преобразования персональных данных клиентов для их защиты таким образом, чтобы при преобразовании качество моделей машинного обучения не ухудшилось.|`pandas`, `numpy`, `ydata_profiling`, `sklearn`|
+|11.|[Определение стоимости автомобилей](https://github.com/vvlychak/yandex-practicum-projects/tree/main/11_car_price)|Построение модели для задачи регрессии для предсказания рыночной цены автомобилей по их характеристикам.|`pandas`, `numpy`, `ydata_profiling`, `matplotlib`, `sklearn`, `lightgbm`|
+|12.|[Прогнозирование заказов такси](https://github.com/vvlychak/yandex-practicum-projects/tree/main/12_taxi_orders)|Построение модели для задачи регрессии для предсказания количества заказов такси на следующий час.|`pandas`, `matplotlib`, `sklearn`, `catboost`, `statsmodels`|
+|13.|[Поиск токсичных комментариев](https://github.com/vvlychak/yandex-practicum-projects/tree/main/13_toxic_comments_analysis)|Построение модели для задачи классификации для определения токсичности комментариев.|`pandas`, `matplotlib`, `seaborn`, `sklearn`, `re`, `nltk`, `spacy`|
